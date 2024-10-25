@@ -1,0 +1,21 @@
+#game {
+  display: grid;
+  gap: 10px;
+}
+
+.box {
+  width: 60px;
+  height: 60px;
+  background-color: black;
+  cursor: pointer;
+}
+
+.revealed {
+  cursor: default;
+}
+
+#message {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
