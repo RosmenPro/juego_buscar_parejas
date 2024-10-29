@@ -18,3 +18,7 @@ Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, siént
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Autor
+
+- **Rosmén Valencia** - [PerfilGitHub](https://github.com/RosmenPro)
